@@ -1,0 +1,13 @@
+.card2{
+    width: 80%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 5px;
+    background-color: #dcdcdc;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #434343;
+    margin: 0 auto;
+}
+.imagen{
+    width: 80px;
+}
